@@ -4,7 +4,8 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com
 
 
 ##I AM
-
+* This guy:
+<img src="http://i42.tinypic.com/i2k6c6.jpg" alt="Drawing" style="width: 150px;"/>
 * An addicted software crafter who strives to do the best job I can.
 * Continously seeking for improving my coding skills and learning new stuff.
 * Currently focused on Objective-C development and loving it.
@@ -60,3 +61,7 @@ A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS
 ##I HAVE WRITTEN
 
 * [An article about iOS Core Animation on *Guilmo*](http://www.guilmo.com/why-so-serious-lets-animate/)
+
+##THEY EVEN PUT ME ON THE NEWS! 😁
+######*It's about a game I have written back in 2011*
+![A game I have written back in 2011](http://i41.tinypic.com/xatgu9.jpg "This is about a game I have written back in 2011")
