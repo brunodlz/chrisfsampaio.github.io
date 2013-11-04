@@ -37,7 +37,7 @@ I was responsible for installing and configuring computer hardware and Operating
 
 ###@ COTUCA - Technical High School of Campinas by UNICAMP
 
-######Electronics Technician — 2007-2011
+######Elechtronics Technician — 2007-2011
                                                                                        
 Solid education in Mathematics and Elechtronics. The course was mainly focused on deep electric foundation and advanced calculus techniques.
 
