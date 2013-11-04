@@ -1,11 +1,11 @@
+#![Sorry for scaring you](http://i43.tinypic.com/tamxhc.jpg)
 #CHRISTIAN F. M. SAMPAIO
 
 Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com
 
 
 ##I AM
-* This guy:
-![Sorry for scaring you](http://i43.tinypic.com/tamxhc.jpg)
+
 * An addicted software crafter who strives to do the best job I can.
 * Continously seeking for improving my coding skills and learning new stuff.
 * Currently focused on Objective-C development and loving it.
