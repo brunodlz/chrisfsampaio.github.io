@@ -53,7 +53,7 @@ Studying games from the ground up, from the fundamentals to advanced topics like
 
 A technical talk regarding KVC - An iOS development topic.
 
-######@ NSNull Conference, Campinas - sep/2013
+######@ NSNull Conference, Campinas — sep/2013
 
 A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS 7, both are API's that helps handling network interface on iOS.
 
