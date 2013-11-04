@@ -5,7 +5,7 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com
 
 ##I AM
 * This guy:
-<img src="http://i42.tinypic.com/i2k6c6.jpg" alt="Drawing" style="width: 150px;"/>
+![Sorry for scaring you](http://i43.tinypic.com/tamxhc.jpg)
 * An addicted software crafter who strives to do the best job I can.
 * Continously seeking for improving my coding skills and learning new stuff.
 * Currently focused on Objective-C development and loving it.
