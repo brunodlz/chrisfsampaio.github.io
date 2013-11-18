@@ -52,7 +52,8 @@ Studying games from the ground up, from the fundamentals to advanced topics like
 ###for an iOS Track
 ######@ The Developers Conference, São Paulo — jul/2013
 
-A technical talk regarding KVC - An iOS development topic.
+A technical talk regarding KVC - An iOS development topic.  
+See the video [here](http://www.infoq.com/br/presentations/key-value-coding).
 
 ######@ NSNull Conference, Campinas — sep/2013
 
