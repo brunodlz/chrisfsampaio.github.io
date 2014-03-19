@@ -22,8 +22,8 @@ Also, I like being part of internal mastery initiatives by encouraging, particip
 
 #####Accomplishments and Responsabilities
 * Developed iOS apps for companies like Tetrapak, Monsanto, Johnson & Johnson and Natura.
-* Involved into mastery initiatives.
-* Formal recognition for "Mastery skill"
+* Leading mastery initiatives (Dojos and Tech Talks).
+* Two formal recognition for "Mastery skill"
 
 ###An IT Technician @ Sathi
 ######Campinas, São Paulo - Brazil — Mar/2008 - Oct/2012
@@ -59,10 +59,14 @@ See the video [here](http://www.infoq.com/br/presentations/key-value-coding).
 
 A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS 7, both are API's that helps handling network interface on iOS.
 
+######I will be @ QCon SP, São Paulo — apr/2014
+
+[A tehcnical talk about Clean View Controllers](http://qconsp.com/presentation/clean-view-controllers-no-ios)
+
 ##I HAVE WRITTEN
 
 * [An article about iOS Core Animation on *Guilmo*](http://www.guilmo.com/why-so-serious-lets-animate/)
 
-##THEY EVEN PUT ME ON THE NEWS! 😁
+##THEY EVEN PUT ME ON THE NEWS!
 ######*It's about a game I have written back in 2011*
 ![A game I have written back in 2011](http://i41.tinypic.com/xatgu9.jpg "This is about a game I have written back in 2011")
