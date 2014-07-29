@@ -14,11 +14,19 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![Linke
 
 ##I HAVE BEEN
 
+###An iOS Developer @ Movile
+
+######Campinas, São Paulo - Brazil — May/2014 - present
+######To be updated
+
+#####Accomplishments and Responsabilities
+######To be updated
+
 ###An iOS Developer @ CI&T
 
-######Campinas, São Paulo - Brazil — Nov/2012 - present
-I work with the **team** understanding the projects needs and writing them into code. Choosing the most suitable API's, **we** build advanced products that most of the times requires integration with another systems. **We** craft iOS apps for internal, enterprise and public use.
-Also, I like being part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
+######Campinas, São Paulo - Brazil — Nov/2012 - May/2014
+I worked with the **team** understanding the projects needs and writing them into code. Choosing the most suitable API's, **we**'ve built advanced products that most of the times required integration with another systems. **We**'ve crafted iOS apps for internal, enterprise and public use.
+Also, I was part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
 
 #####Accomplishments and Responsabilities
 * Developed iOS apps for companies like Tetrapak, Monsanto, Johnson & Johnson and Natura.
