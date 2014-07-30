@@ -21,6 +21,7 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![Linke
 
 #####Accomplishments and Responsabilities
 ######To be updated
+  
 
 ###An iOS Developer @ CI&T
 
@@ -32,6 +33,7 @@ Also, I was part of internal mastery initiatives by encouraging, participating, 
 * Developed iOS apps for companies like Tetrapak, Monsanto, Johnson & Johnson and Natura.
 * Leading mastery initiatives (Dojos and Tech Talks).
 * Two formal recognition for "Mastery skill"
+  
 
 ###An IT Technician @ Sathi
 ######Campinas, São Paulo - Brazil — Mar/2008 - Oct/2012
