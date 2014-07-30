@@ -69,7 +69,7 @@ See the video [here](http://www.infoq.com/br/presentations/key-value-coding).
 
 A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS 7, both are API's that helps handling network interface on iOS.
 
-######I will be @ QCon SP, São Paulo — apr/2014
+######@ QCon SP, São Paulo — apr/2014
 
 [A tehcnical talk about Clean View Controllers](http://qconsp.com/presentation/clean-view-controllers-no-ios)
 
@@ -77,6 +77,8 @@ A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS
 
 * [An article about iOS Core Animation on *Guilmo*](http://www.guilmo.com/why-so-serious-lets-animate/)
 
+<!---
 ##THEY EVEN PUT ME ON THE NEWS!
 ######*It's about a game I have written back in 2011*
 ![A game I have written back in 2011](http://i41.tinypic.com/xatgu9.jpg "This is about a game I have written back in 2011")
+-->
