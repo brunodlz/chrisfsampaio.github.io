@@ -1,4 +1,4 @@
-#![Sorry for scaring you](http://i43.tinypic.com/tamxhc.jpg)
+#![Hi there](http://i43.tinypic.com/tamxhc.jpg)
 #CHRISTIAN F. M. SAMPAIO
 
 Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![LinkedIn](http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)](http://br.linkedin.com/pub/christian-sampaio/39/a09/615)
