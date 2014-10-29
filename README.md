@@ -6,9 +6,9 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![Linke
 
 ##I AM
 
-* An addicted software crafter who strives to do the best job I can.
+* An addicted software crafter that strives to do the best job I can.
 * Continously seeking for improving my coding skills and learning new stuff.
-* Currently focused on Objective-C development and loving it.
+* Currently focused on iOS Development and loving it.
 
 
 
@@ -17,10 +17,11 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![Linke
 ###An iOS Developer @ Movile
 
 ######Campinas, São Paulo - Brazil — May/2014 - present
-######To be updated
+I'm part of the iOS development team at Movile spending most of my time on coding Apps that are part of bigger projects. Therefore, there is a lot of integration work, which requires non-stop communication with other teams. I'm also leading a Dojo group focused on iOS Development. 
 
 #####Accomplishments and Responsabilities
-######To be updated
+* Develop end-users apps.
+* Leading mastery initiatives (Dojos and Tech Talks).
   
 
 ###An iOS Developer @ CI&T
