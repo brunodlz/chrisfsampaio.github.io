@@ -76,7 +76,7 @@ A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS
 
 ######@ USP São Carlos, São Paulo - aug/2015
 
-A one-day-training about iOS. We've done a (https://github.com/chrisfsampaio/WeatherNow.git)[Weather App] in Swift in 1 day introducing people to how to build iOS Apps from the ground up using Swift.
+A one-day-training about iOS. We've done a [Weather App](https://github.com/chrisfsampaio/WeatherNow.git) in Swift in 1 day introducing people to how to build iOS Apps from the ground up using Swift.
 
 
 ##I HAVE WRITTEN
