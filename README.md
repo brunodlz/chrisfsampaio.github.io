@@ -48,13 +48,13 @@ I was responsible for installing and configuring computer hardware and Operating
 
 ###@ COTUCA - Technical High School of Campinas by UNICAMP
 
-######Elechtronics Technician — 2007-2011
+######Elechtronics Technician — 2007-2011 (finished)
                                                                                        
 Solid education in Mathematics and Elechtronics. The course was mainly focused on deep electric foundation and advanced calculus techniques.
 
 ###@ FATEC - Technology University of São Paulo
 
-######Digital Games — 2012
+######Graduation in Digital Games — 2012-2015 (finished)
                                                                                        
 Studying games from the ground up, from the fundamentals to advanced topics like  game development known proccesses, programming techniques and behavioral aspect of games.
 
@@ -73,6 +73,11 @@ A technical talk regarding AFNetworking 2.0 and NSURLSession introduced with iOS
 ######@ QCon SP, São Paulo — apr/2014
 
 [A tehcnical talk about Clean View Controllers](http://qconsp.com/presentation/clean-view-controllers-no-ios)
+
+######@ USP São Carlos, São Paulo - aug/2015
+
+A one-day-training about iOS. We've done a (https://github.com/chrisfsampaio/WeatherNow.git)[Weather App] in Swift in 1 day introducing people to how to build iOS Apps from the ground up using Swift.
+
 
 ##I HAVE WRITTEN
 
