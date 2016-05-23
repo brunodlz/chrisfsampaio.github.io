@@ -25,7 +25,7 @@ I work on the iOS app for the first 100% online supermarket in the Netherlands. 
 ###An iOS Developer @ Movile
 
 ######Campinas, São Paulo - Brazil — May/2014 - November/2015
-I was part of the iOS development team at Movile spending most of my time on coding Apps that are part of bigger projects. Therefore, there is a lot of integration work, which requires non-stop communication with other teams. I also managed a Dojo group focused on iOS Development. 
+I was part of the iOS development team at Movile spending most of my time on coding Apps that are part of bigger projects. Therefore, there was a lot of integration work, which requires non-stop communication with other teams. I also managed a Dojo group focused on iOS Development. 
 
 #####Accomplishments and Responsibilities
 * Develop end-users apps.
@@ -36,7 +36,7 @@ I was part of the iOS development team at Movile spending most of my time on cod
 
 ######Campinas, São Paulo - Brazil — Nov/2012 - May/2014
 My work was mostly understanding the projects needs and writing them into code. Choosing the most suitable API's, we've built advanced products that most of the times required integration with another systems. We've crafted iOS apps for internal, enterprise and public use.
-I als was part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
+I was also part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
 
 #####Accomplishments and Responsibilities
 * Developed iOS apps for companies like Tetrapak, Monsanto, Johnson & Johnson and Natura.
@@ -47,6 +47,7 @@ I als was part of internal mastery initiatives by encouraging, participating, an
 ###An IT Technician @ Sathi
 ######Campinas, São Paulo - Brazil — Mar/2008 - Oct/2012
 I was responsible for installing and configuring computer hardware and Operating Systems, monitoring and maintaining networks, providing client support either over the phone or onsite, troubleshooting and resolving hardware/software faults, managing and installing Server systems, along with another tasks.
+
 #####Accomplishments and Responsibilities
 * Started as an intern and ended up as Lab manager.
 * Developed an internal software to help handling the Service calls and issues.
@@ -58,13 +59,13 @@ I was responsible for installing and configuring computer hardware and Operating
 
 ######Electronics Technician — 2007-2011 (finished)
                                                                                        
-Solid education in Mathematics and Electronics. The course was mainly focused on deep electric foundation and advanced calculus techniques.
+Solid education in Mathematics and Electronics. The course was mainly focused on deep electric foundations and advanced calculus techniques.
 
 ###@ FATEC - Technology University of São Paulo
 
 ######Graduation in Digital Games — 2012-2015 (finished)
                                                                                        
-My academic training provided me the foundation of Computer Science with focus in game development, studying games from the ground up to fundamentals and advanced topics like game development known processes, programming techniques and behavioural aspect of games.
+My academic training provided me the foundation of Computer Science with focus in game development, studying games from the ground up to fundamentals and topics like game development known processes, programming techniques and behavioural aspect of games.
 
 ##I HAVE SPOKEN IN PUBLIC
 
