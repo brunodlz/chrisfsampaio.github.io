@@ -1,4 +1,3 @@
-#![Hi there](http://i43.tinypic.com/tamxhc.jpg)
 #CHRISTIAN F. M. SAMPAIO
 
 Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![LinkedIn](http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)](http://br.linkedin.com/pub/christian-sampaio/39/a09/615)
@@ -14,10 +13,19 @@ Born on 1991's Christmas eve, Brazilian | christianfsampaio@gmail.com | [![Linke
 
 ##I HAVE BEEN
 
+###An iOS Developer @ Picnic
+
+######Amsterdam, Netherlands — November/2015 - present
+I work on the iOS app for the first 100% online supermarket in the Netherlands. As the company is growing fast, I've improved my skills of responding fast to new features and defining an app architecture that embraces changes easily.
+
+#####Accomplishments and Responsibilities
+* Develop an app that is crucial to the user routine.
+* Constant communication with other teams.
+
 ###An iOS Developer @ Movile
 
-######Campinas, São Paulo - Brazil — May/2014 - present
-I'm part of the iOS development team at Movile spending most of my time on coding Apps that are part of bigger projects. Therefore, there is a lot of integration work, which requires non-stop communication with other teams. I'm also leading a Dojo group focused on iOS Development. 
+######Campinas, São Paulo - Brazil — May/2014 - November/2015
+I was part of the iOS development team at Movile spending most of my time on coding Apps that are part of bigger projects. Therefore, there is a lot of integration work, which requires non-stop communication with other teams. I also managed a Dojo group focused on iOS Development. 
 
 #####Accomplishments and Responsibilities
 * Develop end-users apps.
@@ -27,8 +35,8 @@ I'm part of the iOS development team at Movile spending most of my time on codin
 ###An iOS Developer @ CI&T
 
 ######Campinas, São Paulo - Brazil — Nov/2012 - May/2014
-I worked with the **team** understanding the projects needs and writing them into code. Choosing the most suitable API's, **we**'ve built advanced products that most of the times required integration with another systems. **We**'ve crafted iOS apps for internal, enterprise and public use.
-Also, I was part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
+My work was mostly understanding the projects needs and writing them into code. Choosing the most suitable API's, we've built advanced products that most of the times required integration with another systems. We've crafted iOS apps for internal, enterprise and public use.
+I als was part of internal mastery initiatives by encouraging, participating, and even coordinating some gatherings like Dojos, Tech Talks and Study groups. 
 
 #####Accomplishments and Responsibilities
 * Developed iOS apps for companies like Tetrapak, Monsanto, Johnson & Johnson and Natura.
@@ -56,7 +64,7 @@ Solid education in Mathematics and Electronics. The course was mainly focused on
 
 ######Graduation in Digital Games — 2012-2015 (finished)
                                                                                        
-Studying games from the ground up, from the fundamentals to advanced topics like  game development known processes, programming techniques and behavioural aspect of games.
+My academic training provided me the foundation of Computer Science with focus in game development, studying games from the ground up to fundamentals and advanced topics like game development known processes, programming techniques and behavioural aspect of games.
 
 ##I HAVE SPOKEN IN PUBLIC
 
@@ -82,9 +90,3 @@ A one-day-training about iOS. We've done a [Weather App](https://github.com/chri
 ##I HAVE WRITTEN
 
 * [An article about iOS Core Animation on *Guilmo*](http://www.guilmo.com/why-so-serious-lets-animate/)
-
-<!---
-##THEY EVEN PUT ME ON THE NEWS!
-######*It's about a game I have written back in 2011*
-![A game I have written back in 2011](http://i41.tinypic.com/xatgu9.jpg "This is about a game I have written back in 2011")
--->
